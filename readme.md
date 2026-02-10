@@ -6,11 +6,11 @@
 
 ## 1. Saída: 
 
-O objeto **Sytem.out** representa a saída padrão, permitindo exibir dados no console quando executamos um aplicativo em Java. O System.out possui diversos métodos para gerar saídas, sendo os mais utilizados os métodos **println**, **printf** e **print**.  
+O objeto **System.out** representa a saída padrão, permitindo exibir dados no console quando executamos um aplicativo em Java. O System.out possui diversos métodos para gerar saídas, sendo os mais utilizados os métodos **println**, **printf** e **print**.  
 
 para emojis apertar windons + .
 
-##✅ Método println()
+## ✅ Método println()
 
 O método System.out.println() gera uma string de texto, cria uma nova linha abaixo da atual e então posiciona o cursor nesta linha.
 
