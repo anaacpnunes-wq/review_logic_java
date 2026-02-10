@@ -20,7 +20,7 @@ O método System.out.println() gera uma string de texto, cria uma nova linha aba
 System.out.println("O grêmio vai ser campeão");
 System.out.println("meu segundo println em java");
 ```
-##✅ Método printf()
+## ✅ Método printf()
 
 O método System.out.printf() mostra os dados da saída formatados. Um especificamente em formato se inicia com o simbolo %, seguido por um caractereque representa o tipo de dado. 
 
