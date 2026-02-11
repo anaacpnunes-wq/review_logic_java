@@ -37,4 +37,13 @@ System.out.printf("minha idade = % . 2s%n" , minhaIdade);
 System.out.printf("meu nome = % . 2s%n" , meuNome); 
 System.out.printf("primeira letra = %C" , carol);
 ```
+## ✅ Método print()
 
+O método **System.out.print()** gera um stringde texto, porém diferentemente do método println(), não cria uma nova linha abaixo da atual, deixando o cursor na mesma linha onde a string foi impressa.
+
+*exemplo**
+
+```
+system.out.print("o grêmio vai sair campeão.");
+system.out.print("e o inter não!");
+```             
